@@ -1,6 +1,6 @@
 var ageCheck = Number(prompt("Enter you age to Drive!: "));
 
-if (ageCheck => 18){
+if (ageCheck >= 18){
     alert("Congratulations you Qaulify to Drive! Enjoy the ride!");
 }
     else{
